@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GeRM Lab]]></title>
         <description><![CDATA[GeRM Lab]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/germ-lab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 04:54:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 04:55:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/germ-lab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce32a49a-d887-4490-91ff-3288415699a7.jpg">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b241de84-9249-4572-8c55-84c2ffadb077.jpg</link>
             <guid isPermaLink="false">5083752f-f9dc-4f98-84d9-ca4ef0b8871a</guid>
-            <pubDate>Sat, 16 Jul 2016 04:54:33 GMT</pubDate>
+            <pubDate>Sat, 16 Jul 2016 04:55:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
