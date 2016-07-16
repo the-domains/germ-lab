@@ -1,0 +1,14 @@
+layout_spectrum: 0.30035343719646335
+typography_spectrum: 0.13211689959280193
+color:
+  brandStrength: 0.036676170071586967
+  lightness: 0.1400171834975481
+  saturation: 0.4742017863318324
+  rhythmicContrast: 0.8174150385893881
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: GeRM Lab
