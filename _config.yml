@@ -1,16 +1,16 @@
-layout_spectrum: 0.6150771973188967
-typography_spectrum: 0.6872765836305916
+layout_spectrum: 0.055543939117342234
+typography_spectrum: 0.6553970715031028
 color:
-  brandStrength: 0.6674671757500619
-  lightness: 0.5868212387431413
-  saturation: 0.31836912385188043
-  rhythmicContrast: 0.1809698361903429
+  brandStrength: 0.7962887904141098
+  lightness: 0.1070289306808263
+  saturation: 0.8824719393160194
+  rhythmicContrast: 0.8111508784350008
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: GeRM Lab
 author:
   name: Rafa
