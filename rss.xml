@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[GeRM Lab]]></title>
-        <description><![CDATA[GeRM Lab]]></description>
+        <title><![CDATA[Genómica y Resistencia Microbiana]]></title>
+        <description><![CDATA[Genómica y Resistencia Microbiana]]></description>
         <link>https://thegrid.ai/germ-lab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 05:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 05:48:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/germ-lab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f97a099-065e-4ade-91aa-c49a8086cdcb.png">]]></description>
+            <link>https://thegrid.ai/germ-lab/e6f0d749-fc4e-4020-aa39-848c2b8d4aeb/index.html</link>
+            <guid isPermaLink="false">e6f0d749-fc4e-4020-aa39-848c2b8d4aeb</guid>
+            <pubDate>Sat, 16 Jul 2016 05:48:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our focus]]></title>
             <description><![CDATA[<article><h1>Our focus</h1><p>We are interested in antimicrobial resistance, the human microbiome and viral diseases</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/796b45b1-d105-4783-b530-61e4cd04c434.png"></article>]]></description>
