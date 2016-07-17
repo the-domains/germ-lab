@@ -1,7 +1,7 @@
 ---
-description: 'We love wine, spirits, literature and bugs!'
-dateModified: '2016-07-16T05:36:32.155Z'
-datePublished: '2016-07-16T05:37:55.678Z'
+description: We are proud to be part of THE RANCIOS
+dateModified: '2016-07-17T03:48:24.284Z'
+datePublished: '2016-07-17T04:01:00.301Z'
 title: ''
 author: []
 isBasedOnUrl: >-
@@ -14,6 +14,6 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a116495a-424b-452e-910a-44c3a8803931.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e7576bc-1be2-45a2-9f75-0cc62c87319d.jpg)
 
-We love wine, spirits, literature and bugs!
+We are proud to be part of THE RANCIOS
