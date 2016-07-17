@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Genómica y Resistencia Microbiana]]></title>
-        <description><![CDATA[Genómica y Resistencia Microbiana]]></description>
+        <title><![CDATA[GeRM Lab]]></title>
+        <description><![CDATA[GeRM Lab]]></description>
         <link>https://thegrid.ai/germ-lab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 04:01:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 04:04:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/germ-lab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Our focus]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/germ-lab/7a5e20e8-dccf-4e5b-8ad6-43f34938070d/index.html</link>
             <guid isPermaLink="false">7a5e20e8-dccf-4e5b-8ad6-43f34938070d</guid>
             <pubDate>Sun, 17 Jul 2016 03:58:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f97a099-065e-4ade-91aa-c49a8086cdcb.png" alt="So far we are 4 members but hopefully we will be more soon!">]]></description>
-            <link>https://thegrid.ai/germ-lab/e6f0d749-fc4e-4020-aa39-848c2b8d4aeb/index.html</link>
-            <guid isPermaLink="false">e6f0d749-fc4e-4020-aa39-848c2b8d4aeb</guid>
-            <pubDate>Sat, 16 Jul 2016 05:49:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
