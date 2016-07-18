@@ -4,7 +4,7 @@
         <description><![CDATA[GeRM Lab]]></description>
         <link>https://thegrid.ai/germ-lab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 03:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 03:43:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/germ-lab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/germ-lab/0707ba82-c9a4-422e-aaae-9b7e5f562a0f/index.html</link>
             <guid isPermaLink="false">0707ba82-c9a4-422e-aaae-9b7e5f562a0f</guid>
             <pubDate>Mon, 18 Jul 2016 03:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf55209-8c30-42a3-8e60-506570154d9c.jpg" alt="We are a big mouthed lab">]]></description>
-            <link>https://thegrid.ai/germ-lab/7a5e20e8-dccf-4e5b-8ad6-43f34938070d/index.html</link>
-            <guid isPermaLink="false">7a5e20e8-dccf-4e5b-8ad6-43f34938070d</guid>
-            <pubDate>Sun, 17 Jul 2016 04:29:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
