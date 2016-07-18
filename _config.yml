@@ -1,16 +1,16 @@
-typography_spectrum: 0.028423352632671595
+typography_spectrum: 0.11712874239310622
 color:
-  brandStrength: 0.475772459525615
-  lightness: 0.12365814158692956
-  saturation: 0.6706855446100235
-  rhythmicContrast: 0.4812173193786293
+  brandStrength: 0.0605961331166327
+  lightness: 0.5177409071475267
+  saturation: 0.7014278906863183
+  rhythmicContrast: 0.6731915280688554
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-layout_spectrum: 0.08079709974117577
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+layout_spectrum: 0.9829760799184442
 author:
   name: Rafa
   email: rafaaraos@gmail.com
