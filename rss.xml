@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[GeRM Lab]]></title>
-        <description><![CDATA[GeRM Lab]]></description>
+        <title><![CDATA[Genomic and Resistant Microbes]]></title>
+        <description><![CDATA[Genomic and Resistant Microbes]]></description>
         <link>https://thegrid.ai/germ-lab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 03:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 02:57:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/germ-lab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/germ-lab/6e0a0854-2459-4e1b-9ecb-2f459e5e3536/index.html</link>
             <guid isPermaLink="false">6e0a0854-2459-4e1b-9ecb-2f459e5e3536</guid>
             <pubDate>Mon, 18 Jul 2016 03:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af548b51-8b96-48f9-afe4-29b196322618.png">]]></description>
-            <link>https://thegrid.ai/germ-lab/909c4e5e-7c96-40be-ae98-971ce6afaa37/index.html</link>
-            <guid isPermaLink="false">909c4e5e-7c96-40be-ae98-971ce6afaa37</guid>
-            <pubDate>Mon, 18 Jul 2016 03:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
